@@ -1,0 +1,15 @@
+Game located within cmake-build-debug, named PongSFML.exe
+
+Menu Controls:
+Up and Down arrow keys to move
+Enter to select
+
+Player 1 controls:
+W and S to move up and down
+
+Player 2 controls:
+Up and Down arrow keys to move
+
+
+Only local multiplayer
+No single player currently due to AI balancing issues, may get added in future
