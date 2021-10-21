@@ -1,0 +1,3 @@
+"C:\Users\joeyb\AppData\Local\JetBrains\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\BreakoutSFML.dir/objects.a
+C:\NOTAVI~1\mingw32\bin\ar.exe cr CMakeFiles\BreakoutSFML.dir/objects.a @CMakeFiles\BreakoutSFML.dir\objects1.rsp
+C:\NOTAVI~1\mingw32\bin\G__~1.EXE -g  -static -Wl,--whole-archive CMakeFiles\BreakoutSFML.dir/objects.a -Wl,--no-whole-archive  -o BreakoutSFML.exe -Wl,--out-implib,libBreakoutSFML.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\BreakoutSFML.dir\linklibs.rsp
